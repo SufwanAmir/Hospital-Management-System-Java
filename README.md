@@ -101,6 +101,8 @@ Username: sufwan
 Password: sufwan063
 or you can create your own account.
 
+
+
 Each section (patients, doctors, billing, etc.) has its own sub-menu.
 
 Example: In Patient Management, you can add, update, or search patients.
